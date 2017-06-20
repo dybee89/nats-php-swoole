@@ -41,7 +41,7 @@
     "autoload": {
         "psr-0": {
             "Nats": "src",
-            "Nats\\Test": "src"
+            "Nats\\Test": "test"
         }
     }
 }
